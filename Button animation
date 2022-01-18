@@ -14,4 +14,7 @@
   line-height: 100px;
   background-color: #34B3A0;
   color: #fff;
+  transition: width 750ms ease-in 200ms, 
+              left 500ms ease-out 450ms,
+              font-size 950ms linear;
 }
